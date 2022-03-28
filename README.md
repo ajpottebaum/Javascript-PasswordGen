@@ -1,6 +1,6 @@
 # Javascript-PasswordGen
 Password Generator Assignment 3
-https://ajpottebaum.github.io/Javascript-PasswordGen/
+
 >Created javascript code to produce a password generator that can have different combinations of capital, lowercase, numbers, and special characters. 
 
 ## Table of Contents
